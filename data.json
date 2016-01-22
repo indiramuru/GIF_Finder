@@ -1,0 +1,67 @@
+data = [
+        {
+            "title": "Apple - iPhone 4S - The most amazing iphone yet.",
+            "kwic": "The faster dual-core A5 chip. The 8MP camera with all-new optics also shoots 1080p HD video. And introducing siri. it's the most amazing iphone...",
+            "content": "",
+            "url": "http://www.apple.com/iphone/",
+            "iurl": "image/image1.jpg",
+            "domain": "www.apple.com",
+            "author": "",
+            "news": false,
+            "votes": 1,
+            "date": 1234567890123,
+            "related": []
+        },
+        {
+            "title": "Bpple - iPhone 5S - The most amazing iphone yet.",
+            "kwic": "The faster dual-core A5 chip. The 8MP camera with all-new optics also shoots 1080p HD video. And introducing siri. it's the most amazing iphone...",
+            "content": "",
+            "url": "http://www.apple.com/iphone/",
+            "iurl": "image/image1.jpg",
+            "domain": "www.apple.com",
+            "author": "",
+            "news": false,
+            "votes": 1,
+            "date": 1234567890123,
+            "related": []
+        },
+        {
+            "title": "Apple - iPhone 6S - The most amazing iphone yet.",
+            "kwic": "The faster dual-core A5 chip. The 8MP camera with all-new optics also shoots 1080p HD video. And introducing siri. it's the most amazing iphone...",
+            "content": "",
+            "url": "http://www.apple.com/iphone/",
+            "iurl": "image/image1.jpg",
+            "domain": "www.apple.com",
+            "author": "",
+            "news": false,
+            "votes": 1,
+            "date": 1234567890123,
+            "related": []
+        },
+        {
+            "title": "Bpple - iPhone 7S - The most amazing iphone yet.",
+            "kwic": "The faster dual-core A5 chip. The 8MP camera with all-new optics also shoots 1080p HD video. And introducing siri. it's the most amazing iphone...",
+            "content": "",
+            "url": "http://www.apple.com/iphone/",
+            "iurl": "image/image1.jpg",
+            "domain": "www.apple.com",
+            "author": "",
+            "news": false,
+            "votes": 1,
+            "date": 1234567890123,
+            "related": []
+        },
+        {
+            "title": "Apple - iPhone 8S - The most amazing iphone yet.",
+            "kwic": "The faster dual-core A5 chip. The 8MP camera with all-new optics also shoots 1080p HD video. And introducing siri. it's the most amazing iphone...",
+            "content": "",
+            "url": "http://www.apple.com/iphone/",
+            "iurl": "image/image1.jpg",
+            "domain": "www.apple.com",
+            "author": "",
+            "news": false,
+            "votes": 1,
+            "date": 1234567890123,
+            "related": []
+        }
+    ];
